@@ -1,1 +1,1 @@
-FROM astronomerio/ap-airflow:2.0.0-buster-onbuild-20393
+FROM astronomerio/ap-airflow:2.0.0-buster-onbuild-22237
